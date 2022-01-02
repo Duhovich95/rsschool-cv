@@ -1,0 +1,67 @@
+ul li{list-style: none;}
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+*,*:before,*:after{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+
+body {
+    background-color: rgb(233, 230, 230);
+}
+.header {
+    padding: 25px;
+    border-bottom: 1px solid #828282;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.links {
+    color:gray
+}
+
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+h2 {
+    text-align: center;
+    padding: 30px;
+}
+p {
+    text-align: center;
+    padding: 30px;
+}
+.photo {
+    display: block;
+    margin: auto;
+}
+
+.container {
+        width: 100%;
+        background-color: #cfcfcf;
+        
+}
+.example {
+        font-size: 24px;
+    color: rgb(96, 74, 173);
+}
+.rs_school {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 0 20px 0;
+}
+.rs {
+    width: 10%;
+}
