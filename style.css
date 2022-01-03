@@ -59,6 +59,7 @@ p {
 .example {
         font-size: 24px;
     color: rgb(96, 74, 173);
+    margin: auto;
 }
 .rs_school {
     display: flex;
