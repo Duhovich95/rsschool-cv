@@ -20,6 +20,10 @@ body {
     border-bottom: 1px solid #828282;
 }
 
+
+
+
+
 .menu {
     display: flex;
     align-items: center;
@@ -55,6 +59,7 @@ p {
 .example {
         font-size: 24px;
     color: rgb(96, 74, 173);
+    margin: auto;
 }
 .rs_school {
     display: flex;
